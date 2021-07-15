@@ -17,7 +17,7 @@ ActiveRecord::Schema.define(version: 2021_07_15_020606) do
 
   create_table "artworks", force: :cascade do |t|
     t.string "photo"
-    t.string "type"
+    t.string "item"
     t.string "animal"
     t.boolean "custom"
     t.datetime "created_at", precision: 6, null: false
@@ -25,7 +25,7 @@ ActiveRecord::Schema.define(version: 2021_07_15_020606) do
   end
 
   create_table "projects", force: :cascade do |t|
-    t.string "type"
+    t.string "item"
     t.string "mod"
     t.string "image"
     t.string "name"
