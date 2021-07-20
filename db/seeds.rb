@@ -9,7 +9,7 @@
 Project.create([
     {item: "JavaScript Project",
     mod: "Mod 4",
-    image: "https://github.com/JessAntunes/logic-grid-frontend/blob/master/images/screenshot.png",
+    image: "https://i.ibb.co/LkcYKg3/Screen-Shot-2021-06-20-at-11-20-58-AM.png",
     name: "Logic Grid",
     technology: "Rails Backend | JavaScript Frontend",
     demo: "https://www.youtube.com/watch?v=OohM3gDU7gM",
@@ -18,7 +18,7 @@ Project.create([
 
     {item: "Rails Project",
     mod: "Mod 3",
-    image: "https://github.com/JessAntunes/roll-call-for-teachers/blob/master/app/assets/images/screenshot.png",
+    image: "https://i.ibb.co/yRKpX9j/Screen-Shot-2021-05-13-at-6-28-21-PM.png",
     name: "Role Call",
     technology: "Ruby on Rails | HTML5 | CSS | OAuth",
     demo: "https://www.youtube.com/watch?v=IK4bGTv7UMw",
