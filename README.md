@@ -1,5 +1,3 @@
-# README
-
 # Personal Portfolio 
 This is my personal portfolio. The first page is about me, my skills, and education. The second page whos my projects I have completed thus far at Flatiron, The third page is a photo gallery of past mockups of my artwork and products I have sold with my artwork on it. 
 
